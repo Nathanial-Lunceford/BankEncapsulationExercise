@@ -1,0 +1,15 @@
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.exe
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.deps.json
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.runtimeconfig.json
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.dll
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\net6.0\BankEncapsulationExercise.pdb
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.csproj.AssemblyReference.cache
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.AssemblyInfo.cs
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.dll
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\refint\BankEncapsulationExercise.dll
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.pdb
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\BankEncapsulationExercise.genruntimeconfig.cache
+C:\Users\Skinnysolids\Desktop\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\net6.0\ref\BankEncapsulationExercise.dll
